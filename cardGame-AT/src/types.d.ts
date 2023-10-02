@@ -1,8 +1,8 @@
 interface Appearance {
     hair: string;
     eyes: string;
-    height: string;
-    weight?: string;
+    height: number;
+    weight?: number;
 }
 
 type Images = string[]
@@ -13,7 +13,7 @@ export interface Character {
     species: string
     age: number
     gender: string
-    // appearance: Appearance
+    appearance: Appearance
     powers: string[]
     origin: string
     image: string
