@@ -1,0 +1,334 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Finn",
+        "species": "human",
+        "gender": "male",
+        "age": 12,
+        "appearance": {
+          "hair": "blond",
+          "eyes": "blue",
+          "height": 1.50,
+          "weight": 45
+        },
+        "personality": [
+          "happy",
+          "adventurous",
+          "idealistic",
+          "loyal",
+          "protector"
+        ],
+        "powers": [
+          "swordfighting",
+          "strength",
+          "endurance"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Jake", "Marceline", "BMO"],
+          "family": ["Jake", "Lady Rainicorn"]
+        },
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/finnthehuman_adventuretime.png"
+      },
+      {
+        "id": 2,
+        "name": "Jake",
+        "species": "dog",
+        "gender": "male",
+        "age": 28,
+        "appearance": {
+          "hair": "brown",
+          "eyes": "brown",
+          "height": 1.80,
+          "weight": 90
+        },
+        "personality": [
+          "funny",
+          "loyal",
+          "creative",
+          "protective"
+        ],
+        "powers": [
+          "shapeshifting",
+          "regeneration",
+          "psychic powers"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Marceline", "BMO"],
+          "family": ["Finn", "Lady Rainicorn"]
+        },
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/jakes_at_transparent.png"
+      },
+      {
+        "id": 3,
+        "name": "Marceline",
+        "species": "vampire",
+        "gender": "female",
+        "age": 1000,
+        "appearance": {
+          "hair": "black",
+          "eyes": "red",
+          "height": 1.70,
+          "weight": 60
+        },
+        "personality": [
+          "punk",
+          "rebellious",
+          "mysterious",
+          "independent"
+        ],
+        "powers": [
+          "vampirism",
+          "magic",
+          "guitar"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "BMO"],
+          "family": ["Ice King"]
+        },
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/marceline_the_vampire_queen.png"
+      },
+      {
+        "id": 4,
+        "name": "BMO",
+        "species": "machine",
+        "gender": "undefined",
+        "age": 1000,
+        "appearance": {
+          "color": "green",
+          "shape": "rectangular",
+          "height": 20
+        },
+        "personality": [
+          "happy",
+          "curious",
+          "creative",
+          "independent"
+        ],
+        "powers": [
+          "transformation",
+          "teleportation",
+          "remote control"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"]
+        },
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/bmo_7.png"
+      },
+      {
+        "name": "Lumpy Space Princess",
+        "species": "Lumpy Space Princess",
+        "gender": "female",
+        "age": 16,
+        "appearance": {
+          "hair": "pink",
+          "eyes": "purple",
+          "height": 1.60,
+          "weight": 50
+        },
+        "personality": [
+          "vain",
+          "spoiled",
+          "selfish",
+          "dramatic"
+        ],
+        "powers": [
+          "Lumpy Space Magic"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["Peppermint Butler"]
+        }
+      },
+      {
+        "name": "Flame Princess",
+        "species": "Fire Elemental",
+        "gender": "female",
+        "age": 15,
+        "appearance": {
+          "hair": "red",
+          "eyes": "orange",
+          "height": 1.70
+          "weight": 60
+        },
+        "personality": [
+          "hot-tempered",
+          "passionate",
+          "strong-willed",
+          "protective"
+        ],
+        "powers": [
+          "Fire Manipulation"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["Fire King"]
+        }
+      },
+      {
+        "name": "Tree Trunks",
+        "species": "Human",
+        "gender": "female",
+        "age": 60,
+        "appearance": {
+          "hair": "brown",
+          "eyes": "brown",
+          "height": 1.50,
+          "weight": 55
+        },
+        "personality": [
+          "kind",
+          "generous",
+          "loving",
+          "caring"
+        ],
+        "powers": [
+          "None"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["Tree Trunks's husband"]
+        }
+      },
+      {
+        "name": "Peppermint Butler",
+        "species": "Demon",
+        "gender": "male",
+        "age": 1000,
+        "appearance": {
+          "hair": "white",
+          "eyes": "black",
+          "height": 1.60,
+          "weight": 50
+        },
+        "personality": [
+          "sarcastic",
+          "cynical",
+          "intelligent",
+          "loyal"
+        ],
+        "powers": [
+          "Demon Magic"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["Princess Bubblegum"]
+        }
+      },
+      {
+        "name": "The Ice King",
+        "species": "Human",
+        "gender": "male",
+        "age": 1000,
+        "appearance": {
+          "hair": "white",
+          "eyes": "blue",
+          "height": 1.80,
+          "weight": 90
+        },
+        "personality": [
+          "lonely",
+          "obsessive",
+          "childish",
+          "whimsical"
+        ],
+        "powers": [
+          "Ice Magic"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["Simon Petrikov"]
+        }
+      },
+      {
+        "name": "Princess Bubblegum",
+        "species": "Candy Person",
+        "gender": "female",
+        "age": 18,
+        "appearance": {
+          "hair": "pink",
+          "eyes": "blue",
+          "height": "1.70 m",
+          "weight": "60 kg"
+        },
+        "personality": [
+          "intelligent",
+          "caring",
+          "responsible",
+          "ambitious"
+        ],
+        "powers": [
+          "Candy Magic"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["Candy Kingdom"]
+        }
+      },
+      {
+        "name": "Cinnamon Bun",
+        "species": "Gingerbread Man",
+        "gender": "male",
+        "age": 1000,
+        "appearance": {
+          "hair": "brown",
+          "eyes": "brown",
+          "height": "1.60 m",
+          "weight": "50 kg"
+        },
+        "personality": [
+          "kind",
+          "gentle",
+          "shy",
+          "gullible"
+        ],
+        "powers": [
+          "None"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["Peppermint Butler"]
+        }
+      },
+      {
+        "name": "Abracadaniel",
+        "species": "Magician",
+        "gender": "male",
+        "age": 1000,
+        "appearance": {
+          "hair": "black",
+          "eyes": "blue",
+          "height": "1.70 m",
+          "weight": "60 kg"
+        },
+        "personality": [
+          "charismatic",
+          "confident",
+          "arrogant",
+          "lazy"
+        ],
+        "powers": [
+          "Magic"
+        ],
+        "origin": "Land of Ooo",
+        "relationships": {
+          "friends": ["Finn", "Jake", "Marceline"],
+          "family": ["None"]
+        }
+      }
+      
+      
+    ]
+  }
+  

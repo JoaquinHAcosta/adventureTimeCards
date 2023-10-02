@@ -1,0 +1,255 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Finn",
+            "species": "human",
+            "gender": "male",
+            "age": 12,
+            "appearance": {
+              "hair": "blond",
+              "eyes": "blue",
+              "height": 1.50,
+              "weight": 45
+            },
+            "personality": [
+              "happy",
+              "adventurous",
+              "idealistic",
+              "loyal",
+              "protector"
+            ],
+            "powers": [
+              "swordfighting",
+              "strength",
+              "endurance"
+            ],
+            "origin": "Land of Ooo",
+            "relationships": {
+              "friends": ["Jake", "Marceline", "BMO"],
+              "family": ["Jake", "Lady Rainicorn"]
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/finnthehuman_adventuretime.png"
+          },
+          {
+            "id": 2,
+            "name": "Jake the Dog",
+            "species": "magical dog",
+            "gender": "male",
+            "age": 28,
+            "appearance": {
+              "fur": "yellow",
+              "eyes": "black",
+              "height": 1.80,
+              "weight": 90
+            },
+            "personality": [
+              "laid-back",
+              "funny",
+              "wise",
+              "protective",
+              "loving"
+            ],
+            "powers": [
+              "shape-shifting",
+              "stretching",
+              "flying",
+              "healing"
+            ],
+            "origin": "Land of Ooo",
+            "relationships": {
+              "friends": ["Finn the Human", "Lady Rainicorn", "BMO"],
+              "family": ["Lady Rainicorn", "five children with Lady Rainicorn"]
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/jakes_at_transparent.png"
+          },
+          {
+            "id": 3,
+            "name": "Princess Bubblegum",
+            "species": "candy person",
+            "gender": "female",
+            "age": 18,
+            "appearance": {
+              "skin": "pink",
+              "hair": "pink",
+              "eyes": "purple",
+              "height": 1.60,
+              "weight": 50
+            },
+            "personality": [
+              "intelligent",
+              "scientific",
+              "kind",
+              "compassionate",
+              "sometimes controlling"
+            ],
+            "powers": [
+              "scientific knowledge",
+              "ability to create candy people and other objects",
+              "healing"
+            ],
+            "origin": "Land of Ooo",
+            "relationships": {
+              "friends": ["Finn the Human", "Jake the Dog", "Marceline", "BMO"],
+              "family": ["Candy people"]
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/Bubblegum_7328.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Lady Rainicorn",
+            "species": "rainicorn",
+            "gender": "female",
+            "age": 28,
+            "appearance": {
+              "fur": "rainbow-colored",
+              "eyes": "black",
+              "height": 2.00,
+              "weight": 70
+            },
+            "personality": [
+              "kind",
+              "gentle",
+              "intelligent",
+              "playful",
+              "loving"
+            ],
+            "powers": [
+              "ability to speak human language",
+              "ability to fly",
+              "ability to shoot rainbows from her horn"
+            ],
+            "origin": "Land of Ooo",
+            "relationships": {
+              "mate": "Jake the Dog",
+              "children": "five children with Jake the Dog"
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/1ATLadyRainicornLook_9694.png"
+          },
+          {
+            "id": 5,
+            "name": "BMO",
+            "species": "living game console",
+            "gender": "genderless",
+            "age": 13,
+            "appearance": {
+              "body": "green and white rectangular box",
+              "face": "screen with cartoon eyes and mouth",
+              "arms": "two short arms",
+              "legs": "two short legs"
+            },
+            "personality": [
+              "cute",
+              "innocent",
+              "playful",
+              "helpful",
+              "curious"
+            ],
+            "powers": [
+              "ability to play video games",
+              "ability to access and store information",
+              "ability to project images from its screen"
+            ],
+            "origin": "Land of Ooo",
+            "relationships": {
+              "friends": ["Finn the Human", "Jake the Dog", "Princess Bubblegum", "Lady Rainicorn"]
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/bmo_7.png   "
+          },
+          {
+            "id": 6,
+            "name": "Lumpy Space Princess",
+            "species": "Lumpy Space person",
+            "gender": "female",
+            "age": 18,
+            "appearance": {
+              "body": "purple cloud",
+              "face": "one eye, a mouth, and a yellow star on her forehead",
+              "arms": "two short arms",
+              "legs": "none"
+            },
+            "personality": [
+              "sassy",
+              "vapid",
+              "materialistic",
+              "but also kind and caring"
+            ],
+            "powers": [
+              "ability to float",
+              "ability to infect others with lumpiness with her bite"
+            ],
+            "origin": "Lumpy Space",
+            "relationships": {
+              "friends": ["Finn the Human", "Jake the Dog", "Marceline the Vampire Queen"],
+              "family": "Lumpy Space King and Lumpy Space Queen"
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/lumpy_space_princess.png"
+          },
+          {
+            "id": 7,
+            "name": "Marceline the Vampire Queen",
+            "species": "half-vampire, half-demon",
+            "gender": "female",
+            "age": 1000,
+            "appearance": {
+              "skin": "pale",
+              "hair": "black",
+              "eyes": "red",
+              "height": 1.60,
+              "weight": 50
+            },
+            "personality": [
+              "rebellious",
+              "sarcastic",
+              "musical",
+              "loyal",
+              "protective"
+            ],
+            "powers": [
+              "immortality",
+              "super strength",
+              "shapeshifting",
+              "flying",
+              "healing",
+              "ability to control fire"
+            ],
+            "origin": "Land of Ooo",
+            "relationships": {
+              "friends": ["Finn the Human", "Jake the Dog", "Princess Bubblegum", "Lumpy Space Princess"],
+              "family": "Hunson Abadeer (father)"
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/marceline_the_vampire_queen.png"
+          },
+          {
+            "id": 8,
+            "name": "Ice King",
+            "species": "human turned ice elemental",
+            "gender": "male",
+            "age": 1000,
+            "appearance": {
+              "skin": "blue",
+              "hair": "white",
+              "eyes": "blue",
+              "height": 1.80,
+              "weight": 60
+            },
+            "personality": [
+              "senile",
+              "lonely",
+              "obsessed with princesses",
+              "but also kind and caring"
+            ],
+            "powers": [
+              "ability to create and control ice",
+              "immortality",
+              "super strength"
+            ],
+            "origin": "Land of Ooo",
+            "relationships": {
+              "friends": ["Finn the Human", "Jake the Dog"],
+              "family": "Simon Petrikov (past self)"
+            },
+            "image": "https://static.tvtropes.org/pmwiki/pub/images/Ice_King_6609.png"
+          }
+    ]
+}
