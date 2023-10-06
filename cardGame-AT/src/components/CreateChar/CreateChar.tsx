@@ -33,8 +33,8 @@ const CreateChar = () => {
             [event.target.name]: event.target.value
         })
     }
-    // : React.FormEvent<HTMLFormElement>: Promise<void>
-    const onSubmitChar = async (event) => {
+    // : Promise<void>
+    const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
         event.preventDefault()
         try {
             await addDoc(charactersCollectionRef, newChar)
@@ -49,7 +49,7 @@ const CreateChar = () => {
 
     return (
         <>
-            <form>
+            <form onSubmit={handleSubmit}>
                 <header>Add Character to DB</header>
                 <input 
                     onChange={handleChange} 
@@ -76,7 +76,7 @@ const CreateChar = () => {
                     type="text" placeholder='image'
                     name='image' value={newChar.image}
                 />
-                <button onClick={onSubmitChar}>Submit</button>
+                <input type='submit'/>
             </form>
         </>
     )

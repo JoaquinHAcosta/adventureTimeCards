@@ -1,4 +1,4 @@
-import { characters as charsAT } from '../../mocks/characters.json'
+// import { characters as charsAT } from '../../mocks/characters.json'
 
 import { useState, useEffect } from 'react'
 
