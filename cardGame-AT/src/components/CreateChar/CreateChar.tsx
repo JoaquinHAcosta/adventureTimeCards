@@ -33,11 +33,14 @@ const CreateChar = () => {
             [event.target.name]: event.target.value
         })
     }
-
-    const onSubmitChar = async (event: React.FormEvent<HTMLFormElement>): Promise<void> => {
+    // : React.FormEvent<HTMLFormElement>: Promise<void>
+    const onSubmitChar = async (event) => {
         event.preventDefault()
         try {
             await addDoc(charactersCollectionRef, newChar)
+
+            //uncomment this when all the functions be in the same file
+            //getCharList()
         } catch (error) {
             console.log(error);
         }
@@ -67,6 +70,11 @@ const CreateChar = () => {
                     onChange={handleChange} 
                     type="number" placeholder='age'
                     name='age' value={newChar.age}
+                />
+                <input 
+                    onChange={handleChange} 
+                    type="text" placeholder='image'
+                    name='image' value={newChar.image}
                 />
                 <button onClick={onSubmitChar}>Submit</button>
             </form>
